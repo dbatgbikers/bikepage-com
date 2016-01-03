@@ -1,0 +1,14 @@
+{
+	"success": 1,
+	"data": [{
+		"event_id": "1",
+		"event_name": "Astla Vista 2k15",
+		"event_image": "img/event_images/astlavista2k15.jpg",
+		"event_url": "event_details.html"
+	},{
+		"event_id": "2",
+		"event_name": "GujruGari Caves",
+		"event_image": "img/event_images/chopta.jpg",
+		"event_url": "event_details.html"
+	}]
+}
