@@ -2,17 +2,17 @@
 	"success": 1,
 	"data": [{
 		"event_id": "3",
-		"event_name": "Ride To Tip Top",
-		"event_image": "img/event_images/tip-top.jpg",
+		"event_name": "THE PRIDE RIDE",
+		"event_image": "img/event_images/26jan.jpg",
 		"event_start_date": "17-Dec-2015",
 		"event_end_date": "20-Dec-2015",
 		"event_start_time": "6:00/17-Dec-2015",
 		"event_end_time": "23:00/20-Dec-2015",
-		"event_date_duration": "December 17 - December 20",
-		"event_time_duration": "Dec 17 at 6:00 AM to Dec 20 at 9:00 PM",
-		"event_html": "<h3>''GETTING INTO WILD''</h3><h4>TIME TO SAY GOOD BYE TO 2015 IN DBATG STYLE.</h4><h4>TIME TO CONQUER ONE MORE PASS WITH TEAM DBATG.</h4><h5>THIS TIME TEAM DBATG AND TEAM E.A.S IS RIDING TO JALORI PASS 10,800 ft ( 3120 m) IN KULLU DISTRICT ( HIMACHAL PRADESH )</h5><h4>IMPORTANT :- </h4><p>Day Wise Details and Important things to carry for ride will be given to those riders who will confirm with us so that he /she can understand the tour iternary because we are not fixed to any destination on day wise. We are going to ride in such terrains where we can not assume our covered distance so interested persons directly contact us.</p><h4>Price: INR 5000/- per person ( excluding petrol )</h4><h4>Price inclusive of:</h4><ul><li>4 breakfast, 4 Lunch & 3 dinner.</li><li>Twin / Triple sharing accommodation at camps/hotels</li><li>First- aid kit with necessary medicines</li><li>Badges and Group stickers for bikes and helmets.</li><li>Unforgettable memory for the all life!!</li></ul><h4>EXCLUSIONS:</h4><ul><li>Extra Transportation not included in trip. </li><li>Please carry luggage in small bag which can adjust on bike , do not carry extra luggage. </li><li>Expenses of personal nature such as table drinks, snacks, telephone calls, laundry, camera fee for still or video camera, tips to drivers, local guides, and hotel staff. </li></ul>",
-		"event_title": "Ride To Jalori Pass",
-		"total_kms": "Total Kms - 1200 ( Approx )",
+		"event_date_duration": "January 26",
+		"event_time_duration": "Jan 26 at 6:00 AM to Jan 26 at 10:00 AM",
+		"event_html": "<h3>Details will be posted soon</h3>",
+		"event_title": "THE PRIDE RIDE",
+		"total_kms": "Total Kms - 100 ( Approx )",
 		"event_url": "event_details.html"
 	}]
 }
