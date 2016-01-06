@@ -54,5 +54,23 @@
 		"total_rides": "30",
 		"post" : "Admin",
 		"member_img": "../img/web_images/sandeep.jpg"
+	},{
+		"member_id" : "7",
+		"member_name" : "Vishal Diwakar",
+		"member_details": "<p>Vishal Diwakar is one of the founder of this group. &nbsp;Born in Moradabad(Uttar Pradesh), currently reside in Noida.&nbsp;<br />He loves nature more than himself so obviously his passions are Photography and most important Biking.&nbsp;</p><p>Bike riding for him is more than the seeing of sights; it is a change that goes on, deep and permanent, in the ideas of living.<br />To the lover of wilderness, Biking is one of the most wonderful thing in the world.<br />So keep riding !!!!!!</p>",
+		"is_admin": "1",
+		"member_from": "June 2012",
+		"total_rides": "30",
+		"post" : "Admin",
+		"member_img": "../img/web_images/vishal.jpg"
+	},{
+		"member_id" : "8",
+		"member_name" : "Arvind Kumar",
+		"member_details": "<p>Arvind Kumar&nbsp;is one of the founder of this group. &nbsp;Born and brought up in Delhi.</p><p>&quot;If the path is beautiful, Ask where it leads to..&nbsp;But if destination Is Beautiful Never mind about the path..&nbsp;keep walking.&nbsp;&rdquo;</p>",
+		"is_admin": "1",
+		"member_from": "June 2012",
+		"total_rides": "30",
+		"post" : "Admin",
+		"member_img": "../img/web_images/arvind.jpg"
 	}]
 }
