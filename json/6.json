@@ -1,0 +1,18 @@
+{
+	"success": 1,
+	"data": [{
+		"event_id": "6",
+		"event_name": "EXPLORE RAJASTHAN",
+		"event_image": "img/event_images/explore_rajasthan1.jpg",
+		"event_start_date": "17-Dec-2015",
+		"event_end_date": "20-Dec-2015",
+		"event_start_time": "6:00/17-Dec-2015",
+		"event_end_time": "23:00/20-Dec-2015",
+		"event_date_duration": "Feb 11 to Feb 14",
+		"event_time_duration": "Feb 11 at 6:00 AM to Feb 14 8:00 PM",
+		"event_html": "<h3>DETAILS WILL BE POSTED SOON !!!!</h3>",
+		"event_title": "EXPLORE RAJASTHAN",
+		"total_kms": "Total Kms - 2000 ( Approx )",
+		"event_url": "event_details.html"
+	}]
+}

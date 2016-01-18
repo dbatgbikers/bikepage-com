@@ -1,0 +1,43 @@
+{
+	"success": 1,
+	"data": [{
+		"ride_id": "1",
+		"ride_name": "Astla Vista 2k15",
+		"ride_url": "ride_details.html",
+		"ride_start_date": "17/12/2015",
+		"ride_end_date": "20/12/2015",
+		"ride_start_time": "6:00",
+		"ride_end_time": "23:00",
+		"ride_date_duration": "December 31 - January 1",
+		"ride_time_duration": "Dec 31 at 6:00 PM to Jan 1 at 11:00 AM",
+		"ride_brief_desc" : "",
+		"ride_html": "",
+		"total_kms": "Total Kms - 100 ( Approx )"
+	},{
+		"ride_id": "2",
+		"ride_name": "GujruGari Caves",
+		"ride_url": "ride_details.html",
+		"ride_start_date": "17/12/2015",
+		"ride_end_date": "20/12/2015",
+		"ride_start_time": "6:00",
+		"ride_end_time": "23:00",
+		"ride_date_duration": "December 31 - January 1",
+		"ride_time_duration": "Dec 31 at 6:00 PM to Jan 1 at 11:00 AM",
+		"ride_brief_desc" : "",
+		"ride_html": "",
+		"total_kms": "Total Kms - 100 ( Approx )"
+	},{
+		"ride_id": "3",
+		"ride_name": "Jalori Pass",
+		"ride_url": "ride_details.html",
+		"ride_start_date": "17/12/2015",
+		"ride_end_date": "20/12/2015",
+		"ride_start_time": "6:00",
+		"ride_end_time": "23:00",
+		"ride_date_duration": "December 31 - January 1",
+		"ride_time_duration": "Dec 31 at 6:00 PM to Jan 1 at 11:00 AM",
+		"ride_brief_desc" : "",
+		"ride_html": "",
+		"total_kms": "Total Kms - 100 ( Approx )"
+	}]
+}

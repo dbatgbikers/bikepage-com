@@ -1,0 +1,87 @@
+body{
+	margin: 0;
+}
+
+#cover_container {
+    width: 100%;
+    height: 87%;
+    position: relative;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
+    #cover_container {
+	    width: 100%;
+	    height: 50%;
+	    position: relative;
+	}
+}
+
+#luggage_main_cover img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+#luggage_title {
+    position: absolute;
+    left:0;
+    right:0;
+    margin-left:auto;
+    margin-right:auto;
+    bottom: 0;
+    width: 80%;
+    background-color: #fff;
+}
+
+#luggage_title_h2{
+    margin-top: 4%;
+}
+
+h2 {
+    font-family: "Wellfleet";
+    font-weight: bolder;
+    font-size: 45px;
+    text-align: center;
+    color: #777;
+    margin: 0px;
+    padding: 0px;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
+    #luggage_title{
+        width: 100%;
+        margin-top: 2%;
+    }
+}
+
+#main_container{
+    background-color: #fff;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    padding-top: 80px;
+}
+
+#main_content{
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-bottom: 50px;
+}
+
+ul li {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+p {
+    font-size: 25px;
+    font-family: "Arvo";
+    color: #777;
+}
+
+ol li {
+    font-size: 18px;
+    font-family: "Arvo";
+    color: #777;
+}

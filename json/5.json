@@ -1,0 +1,18 @@
+{
+	"success": 1,
+	"data": [{
+		"event_id": "4",
+		"event_name": "ADVENTURE ISLAND - MORNI HILLS",
+		"event_image": "img/event_images/adventure_island.jpg",
+		"event_start_date": "17-Dec-2015",
+		"event_end_date": "20-Dec-2015",
+		"event_start_time": "6:00/17-Dec-2015",
+		"event_end_time": "23:00/20-Dec-2015",
+		"event_date_duration": "Jan 31 to Feb 1",
+		"event_time_duration": "Jan 31 at 6:00 AM to Feb 1 8:00 PM",
+		"event_html": "<h3>DETAILS WILL BE POSTED SOON !!!!</h3>",
+		"event_title": "ADVENTURE ISLAND - MORNI HILLS",
+		"total_kms": "Total Kms - 500 ( Approx )",
+		"event_url": "event_details.html"
+	}]
+}

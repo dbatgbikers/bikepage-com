@@ -8,7 +8,7 @@
 		"member_from": "March 2012",
 		"total_rides": "50",
 		"post" : "Admin",
-		"member_img": "../img/web_images/pc.jpg"
+		"member_img": "../img/web_images/profile_pics/pc.jpg"
 	},{
 		"member_id" : "2",
 		"member_name" : "Ishu Negi",
@@ -17,7 +17,7 @@
 		"member_from": "March 2012",
 		"total_rides": "3",
 		"post" : "Admin",
-		"member_img": "../img/web_images/ishu.jpg"
+		"member_img": "../img/web_images/profile_pics/ishu.jpg"
 	},{
 		"member_id" : "3",
 		"member_name" : "Aniken",
@@ -26,7 +26,7 @@
 		"member_from": "July 2013",
 		"total_rides": "5",
 		"post" : "Admin",
-		"member_img": "../img/web_images/aniken.jpg"
+		"member_img": "../img/web_images/profile_pics/aniken.jpg"
 	},{
 		"member_id" : "4",
 		"member_name" : "Yash Jha (Daku)",
@@ -35,7 +35,7 @@
 		"member_from": "December 2013",
 		"total_rides": "20",
 		"post" : "Admin",
-		"member_img": "../img/web_images/daku.jpg"
+		"member_img": "../img/web_images/profile_pics/daku.jpg"
 	},{
 		"member_id" : "5",
 		"member_name" : "Manish Rastogi",
@@ -44,7 +44,7 @@
 		"member_from": "January 2014",
 		"total_rides": "10",
 		"post" : "Admin",
-		"member_img": "../img/web_images/manish.jpg"
+		"member_img": "../img/web_images/profile_pics/manish.jpg"
 	},{
 		"member_id" : "6",
 		"member_name" : "Sandeep Kumar",
@@ -53,7 +53,7 @@
 		"member_from": "June 2012",
 		"total_rides": "30",
 		"post" : "Admin",
-		"member_img": "../img/web_images/sandeep.jpg"
+		"member_img": "../img/web_images/profile_pics/sandeep.jpg"
 	},{
 		"member_id" : "7",
 		"member_name" : "Vishal Diwakar",
@@ -62,7 +62,7 @@
 		"member_from": "June 2012",
 		"total_rides": "30",
 		"post" : "Admin",
-		"member_img": "../img/web_images/vishal.jpg"
+		"member_img": "../img/web_images/profile_pics/vishal.jpg"
 	},{
 		"member_id" : "8",
 		"member_name" : "Arvind Kumar",
@@ -71,6 +71,6 @@
 		"member_from": "June 2012",
 		"total_rides": "30",
 		"post" : "Admin",
-		"member_img": "../img/web_images/arvind.jpg"
+		"member_img": "../img/web_images/profile_pics/arvind.jpg"
 	}]
 }

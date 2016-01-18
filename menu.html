@@ -8,15 +8,15 @@
     border: 2px solid #FAFAFA;
     box-shadow: 0 1px 40px rgba(34, 25, 25, 0.4);
     background-color: #fff;
-    width: 18%;
+    width: 25%;
     transform: translateX(125%);
     transition: all .5s;
 }
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
     #navigation {
-        height: 400px;
-        width: 32%;
+        height: 900px;
+        width: 65%;
     }
 }
 
@@ -50,9 +50,13 @@
 }
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
+    #main_navigation {
+        height: 90%;
+    }
+
     #main_navigation li {
-        font-size: 25px;
-        margin: 15px 0;
+        font-size: 45px;
+        margin: 50px 0;
     }
 }
 
@@ -69,13 +73,14 @@
     height: 50px;
     margin: 0 auto;
     display: block;
-    z-index: 1;
+    z-index: 10;
 }
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
     #menu_icon {
         background: url('../img/web_images/menu_32.png') no-repeat;
-        width: 60px;
+        width: 115px;
+        height: 75px;
     }
 }
 
@@ -98,6 +103,24 @@
     background: url("../img/web_images/insta_icon2.png") 50% 0 no-repeat ;
     background-size: contain;
 }
+
+.social_icons {
+    display:table;
+    margin: 0 auto;
+    border-spacing: 20px;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
+    .nav-icon-facebook{
+        height: 45px;
+        width: 45px;
+    }
+
+    .nav-icon-instagram{
+        height: 45px;
+        width: 45px;
+    }
+}
 </style>
 <header>
     <div id="header_container">
@@ -112,8 +135,14 @@
                             <li id="nav_upcoming_rides">
                                 <a href="/#upcoming_rides_container">Upcoming Rides</a>
                             </li>
-                            <li id="nav_upcoming_rides">
+                            <!-- <li id="nav_past_glories">
+                                <a href="/past_rides.html">Past Glories</a>
+                            </li> -->
+                            <li id="nav_who_we_are">
                                 <a href="/#whoweare">Who we are</a>
+                            </li>
+                            <li id="nav_profile_pic">
+                                <a href="/profile_pic.html">DBATG Profile Pic</a>
                             </li>
                             <li id="nav_about_us">
                                 <a href="/#about_main_container">About Us</a>

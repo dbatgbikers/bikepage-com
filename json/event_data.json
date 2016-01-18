@@ -1,14 +1,19 @@
 {
 	"success": 1,
 	"data": [{
-		"event_id": "2",
-		"event_name": "GujruGari Caves",
-		"event_image": "img/event_images/chopta.jpg",
-		"event_url": "event_details.html"
-	},{
 		"event_id": "3",
 		"event_name": "THE PRIDE RIDE",
 		"event_image": "img/event_images/26jan.jpg",
+		"event_url": "event_details.html"
+	},{
+		"event_id": "5",
+		"event_name": "ADVENTURE ISLAND",
+		"event_image": "img/event_images/adventure_island.jpg",
+		"event_url": "event_details.html"
+	},{
+		"event_id": "6",
+		"event_name": "EXPLORE RAJASTHAN",
+		"event_image": "img/event_images/explore-rajasthan.jpg",
 		"event_url": "event_details.html"
 	}]
 }

@@ -1,0 +1,303 @@
+body{
+	margin: 0;
+}
+
+#cover_container {
+    width: 100%;
+    height: 87%;
+    position: relative;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
+    #cover_container {
+	    width: 100%;
+	    height: 50%;
+	    position: relative;
+	}
+}
+
+#past_rides_main_cover img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+#past_rides_title {
+    position: absolute;
+    left:0;
+    right:0;
+    margin-left:auto;
+    margin-right:auto;
+    bottom: 0;
+    width: 80%;
+    background-color: #fff;
+}
+
+#past_rides_title_h2{
+    margin-top: 4%;
+}
+
+h2 {
+    font-family: "Wellfleet";
+    font-weight: bolder;
+    font-size: 40px;
+    text-align: center;
+    color: #777;
+    margin: 0px;
+    padding: 0px;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
+    #past_rides_title{
+        width: 100%;
+        margin-top: 2%;
+    }
+}
+
+#main_container{
+	background-color: #fff;
+	width: 80%;
+	margin: 0 auto;
+	padding: 80px 0;
+}
+
+#past_rides_container{
+	width: 85%;
+	margin: 0 auto;
+}
+
+.left_oriented{
+	margin: 0 auto;
+	text-align: center;
+
+}
+
+.left_info_panel:after, .left_info_panel:before {
+	left: 100%;
+	top: 50%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+
+.left_info_panel:after {
+	border-color: rgba(255, 255, 255, 0);
+	border-left-color: #FFF;
+	border-width: 30px;
+	margin-top: -30px;
+}
+.left_info_panel:before {
+	border-color: rgba(194, 225, 245, 0);
+	border-left-color: #FAFAFA;
+	border-width: 33px;
+	margin-top: -33px;
+}
+
+.left_info_panel{
+	width: 65%;
+	height: 250px;
+	background-color: #FFF;
+	border: 2px solid #FAFAFA;
+    box-shadow: 0 10px 45px rgba(34, 25, 25, 0.4);
+	display: inline-block;
+	vertical-align: top;
+	position: relative;
+}
+
+.right_intro_panel{
+	width: 21%;
+	height: 250px;
+	margin-left: 5%;
+	background-color: #FFF;
+	border: 2px solid #FAFAFA;
+    box-shadow: 0 4px 20px rgba(34, 25, 25, 0.4);
+	display: inline-block;
+	vertical-align: top;
+}
+
+.right_oriented {
+	margin: 5% auto 0;
+	text-align: center;
+}
+
+.left_intro_panel{
+	width: 21%;
+	height: 250px;
+	background-color: #FFF;
+	border: 2px solid #FAFAFA;
+    box-shadow: 0 4px 20px rgba(34, 25, 25, 0.4);
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 5%;
+}
+
+.right_info_panel {
+	position: relative;
+	background: #FFF;
+	border: 2px solid #eee;
+	width: 65%;
+	height: 250px;
+	display: inline-block;
+	vertical-align: top;
+	border: 2px solid #FAFAFA;
+    box-shadow: 0 10px 45px rgba(34, 25, 25, 0.4);
+}
+.right_info_panel:after, .right_info_panel:before {
+	right: 100%;
+	top: 50%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+
+.right_info_panel:after {
+	border-color: rgba(255, 255, 255, 0);
+	border-right-color: #FFF;
+	border-width: 30px;
+	margin-top: -30px;
+}
+.right_info_panel:before {
+	border-color: rgba(194, 225, 245, 0);
+	border-right-color: #FAFAFA;
+	border-width: 33px;
+	margin-top: -33px;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
+	#main_container{
+		width: 100%;
+	}
+	#past_rides_container{
+		width: 100%;
+	}
+	.left_oriented{
+		width: 100%;
+	}
+	.right_oriented{
+		width: 100%;
+	}
+    .left_info_panel{
+        width: 70%;
+        height: 300px;
+    }
+    .right_intro_panel{
+    	width: 20%;
+    	height: 300px;
+    }
+    .left_intro_panel{
+    	width: 20%;
+    	height: 300px;
+    }
+    .right_info_panel{
+    	width: 70%;
+    	height: 300px;
+    }
+}
+
+#past_rides_container h2{
+	margin: 0;
+}
+
+h4{
+	margin: 0;
+	margin-top: 10px;
+	font-family: "Arvo";
+    font-weight: normal;
+    color: #999;
+    font-size: 20px;
+    padding: 0px;
+}
+
+p {
+	margin: 0;
+	margin-top: 10px;
+	font-family: "Arvo";
+    color: #999;
+    font-weight: normal;
+    font-size: 22px;
+    letter-spacing: 1px;
+    padding: 0px;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
+}
+
+.ride_details{
+	text-align: left;
+	margin: 20px 40px 20px 40px;
+}
+
+.ride_details h2 {
+	text-align: left;
+	font-size: 30px;
+}
+
+.date_number{
+	color: #777;
+	font-family: "Wellfleet";
+	font-size: 80px;
+}
+.date_month{
+	color: #777;
+	font-family: "Wellfleet";
+	font-size: 32px;
+}
+.date_year{
+	color: #777;
+	font-family: "Wellfleet";
+	font-size: 20px;
+}
+
+.info_content{
+	padding-top: 35px;
+    color: #fff;
+    background-size: contain;
+    position: relative;
+    height: 180px;
+    margin: 10px;
+}
+
+.past_ride_quote{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.past_ride_quote h4{
+	margin: 0;
+    display: block;
+    font-family: 'Goudy Bookletter 1911', serif;
+    color: #999;
+    font-size: 20px;
+    font-weight: normal;
+}
+.past_ride_quote h5{
+	margin: 0;
+    display: block;
+    font-family: 'Goudy Bookletter 1911', serif;
+    color: #999;
+    font-size: 15px;
+    font-weight: normal;
+}
+.past_ride_quote h3{
+	margin: 0;
+    display: block;
+    font-family: 'Goudy Bookletter 1911', serif;
+    color: #999;
+    font-size: 45px;
+    font-weight: normal;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
+	.past_ride_quote h3{
+	    font-size: 25px;
+	}
+	.info_content {
+		margin-top: 60px;
+	}
+}
