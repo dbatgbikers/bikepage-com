@@ -80,7 +80,7 @@ body {
 #time_duration {
     font-size: 16px;
     font-weight: 100;
-    color: #777;
+    color: #333;
 }
 
 #total_distance {
@@ -90,7 +90,7 @@ body {
     font-family: 'Goudy Bookletter 1911', serif, ;
     float: left;
     width: 100%;
-    color: #777;
+    color: #333;
 }
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
@@ -178,7 +178,7 @@ h5 {
 p {
     font-family: "Arvo";
     font-size: 18px;
-    color: #777;
+    color: #333;
     margin-top: 0px;
     margin-bottom: 15px;
 }
@@ -186,7 +186,7 @@ p {
 li {
     font-family: "Arvo";
     font-size: 20px;
-    color: #777;
+    color: #333;
 }
 
 ul {
@@ -213,7 +213,7 @@ ul {
 }
 
 #luggage_details {
-    height: 48%;
+    height: 42%;
     width: 40%;
     display: inline-block;
     margin: 0px 1.5% 30px 1.5%;
@@ -235,9 +235,9 @@ ul {
     text-align: center;
     font-family: 'Goudy Bookletter 1911', serif;
     font-weight: normal;
-    font-size: 25px;
+    font-size: 20px;
     margin: 10px auto;
-    color: #777;
+    color: #333;
 }
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
