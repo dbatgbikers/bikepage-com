@@ -1,0 +1,484 @@
+html {
+    font-family:sans-serif;
+    -ms-text-size-adjust:100%;
+    -webkit-text-size-adjust:100%
+}
+
+body {
+    margin: 0;
+}
+
+#cover_container {
+    height: 87%;
+    width: 100%;
+    position: relative;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
+    #cover_container {
+        height: 45%;
+    }
+}
+
+#event_main_cover img {
+    height: 100%;
+    width: 100%;
+}
+
+#event_title {
+    position: absolute;
+    left:0;
+    right:0;
+    margin-left:auto;
+    margin-right:auto;
+    bottom: 0;
+    height: 100px;
+    width: 80%;
+    background-color: #FFF;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
+    #event_title{
+        width: 100%;
+        height: 110px;
+    }
+}
+
+#event_date_details {
+    width: 100%;
+    float: left;
+    text-align: center;
+    margin-top: 45px;
+}
+
+.time_icon {
+    min-width: 6%;
+    margin-left: 25%;
+    background: url("../img/web_images/time_icon.png") no-repeat 90% 50%;
+    height: 50px;
+    color: #fff;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    float: left;
+}
+
+.date_time_duration {
+    float: left;
+    max-width: 65%;
+    height:50px;
+    margin-left: 5%
+}
+
+#date_duration {
+    font-size: 22px;
+    font-weight: 100;
+}
+
+#time_duration {
+    font-size: 16px;
+    font-weight: 100;
+    color: #333;
+}
+
+#total_distance {
+    padding-top: 50px;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Goudy Bookletter 1911', serif, ;
+    float: left;
+    width: 100%;
+    color: #333;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
+    .time_icon{
+        min-width: 8%;
+        margin-left: 16%;
+    }
+    #total_distance{
+        font-size: 35px;
+    }
+    #time_duration {
+        font-size: 21px;
+    }
+    #date_duration {
+        font-size: 27px;
+    }
+}
+
+h2 {
+    font-family: "Wellfleet";
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 5%;
+    padding: 0px;
+}
+
+h3 {
+    display: block;
+    font-family: 'Goudy Bookletter 1911', serif, ;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+h4 {
+    display: block;
+    font-size: 18px;
+    font-family: "MuseoSans, serif";
+    font-weight: 100;
+    margin-top: 1px;
+    line-height: 30px;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+    color: #313131;
+}
+
+h5 {
+    display: block;
+    font-family: 'Arvo' ;
+    font-size: 15px;
+    font-weight: normal;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
+    h2 {
+        font-size: 38px;
+    }
+    h3{
+        font-size: 32px;
+    }
+}
+
+#event_content_container {
+    width: 80%;
+    margin : 0 auto;
+    border: 2px solid #FAFAFA;
+    box-shadow: 0 1px 2px rgba(34, 25, 25, 0.4);
+    border-top-width: 0px;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
+    #event_content_container{
+        width: 90%;
+        margin-left: 0;
+    }
+}
+
+#event_content {
+    padding: 5%;
+    clear: both;
+}
+
+p {
+    font-family: "Arvo";
+    font-size: 18px;
+    color: #333;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+li {
+    font-family: "Arvo";
+    font-size: 20px;
+    color: #333;
+}
+
+ul {
+    margin-top: 0px;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
+    p{
+        font-size: 15px;
+    }
+    li{
+        font-size: 15px;
+    }
+ }
+
+.contact_details{
+    margin-bottom: 50px;
+    padding: 0 5%
+}
+
+#luggage_ride {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#luggage_details {
+    height: 42%;
+    width: 40%;
+    display: inline-block;
+    margin: 0px 1.5% 30px 1.5%;
+    border: 2px solid #FAFAFA;
+    padding: 8px 5px 0px 5px;
+    box-shadow: 0 5px 20px rgba(34, 25, 25, 0.4);
+    text-decoration: none;
+}
+
+#luggage_details img{
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+}
+
+#luggage_title {
+    text-align: center;
+    font-family: 'Goudy Bookletter 1911', serif;
+    font-weight: normal;
+    font-size: 20px;
+    margin: 10px auto;
+    color: #333;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
+    #luggage_details {
+        height: 22%;
+    }
+ }
+
+ #facebook_event_page{
+    margin-top: 30px;
+    margin-bottom: 100px;
+    text-align: center;
+    width: 100%;
+ }
+
+ #facebook_event_page img{
+    width: 50px;
+ }
+
+#bm_image2{
+    margin-bottom: 50px;
+    background: url("..") no-repeat 90% 50%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    height: 1500px;
+    margin: 0 auto
+ }
+
+ #bm_image3{
+    margin-bottom: 50px;
+    background: url("../img/web_images/cover_pics/116.jpg") no-repeat 90% 50%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    height: 1500px;
+    margin: 0 auto
+ }
+
+ #bm_image4{
+    margin-bottom: 50px;
+    background: url("../img/web_images/cover_pics/116.jpg") no-repeat 90% 50%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    height: 1500px;
+    margin: 0 auto
+ }
+
+#bm_image5{
+    margin-bottom: 50px;
+    background: url("../img/web_images/cover_pics/117.jpg") no-repeat 90% 50%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    height: 1500px;
+    margin: 0 auto
+}
+
+#wrapper1 {
+    width: 95%;
+    max-width: 1550px;
+    min-width: 320px;
+    margin: 50px auto;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
+    #wrapper1{
+        width: 90%;
+    }
+}
+
+#columns1 {
+    -webkit-column-count: 3;
+    -webkit-column-gap: 30px;
+    -webkit-column-fill: auto;
+    -moz-column-count: 3;
+    -moz-column-gap: 30px;
+    -moz-column-fill: auto;
+    column-count: 3;
+    column-gap: 35px;
+    column-fill: auto;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) {
+    #columns1 {
+        -webkit-column-count: 1;
+        -moz-column-count: 1;
+        column-count: 1;
+    }
+}
+
+#wrapper {
+    width: 95%;
+    max-width: 1550px;
+    min-width: 320px;
+    margin: 50px auto;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
+    #wrapper{
+        width: 90%;
+    }
+}
+
+#wrapper2 {
+    width: 95%;
+    max-width: 1550px;
+    min-width: 320px;
+    margin: 50px auto;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
+    #wrapper2{
+        width: 90%;
+    }
+}
+
+#columns2 {
+    -webkit-column-count: 2;
+    -webkit-column-gap: 30px;
+    -webkit-column-fill: auto;
+    -moz-column-count: 2;
+    -moz-column-gap: 30px;
+    -moz-column-fill: auto;
+    column-count: 2;
+    column-gap: 35px;
+    column-fill: auto;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) {
+    #columns2 {
+        -webkit-column-count: 1;
+        -moz-column-count: 1;
+        column-count: 1;
+    }
+}
+
+#wrapper3{
+    width: 100%;
+    max-width: 1550px;
+    min-width: 320px;
+    margin: 50px auto;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
+    #wrapper3{
+        width: 90%;
+    }
+}
+
+#columns3 {
+    -webkit-column-count: 2;
+    -webkit-column-gap: 30px;
+    -webkit-column-fill: auto;
+    -moz-column-count: 2;
+    -moz-column-gap: 30px;
+    -moz-column-fill: auto;
+    column-count: 2;
+    column-gap: 35px;
+    column-fill: auto;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) {
+    #columns3 {
+        -webkit-column-count: 1;
+        -moz-column-count: 1;
+        column-count: 1;
+    }
+}
+
+#columns {
+    -webkit-column-count: 2;
+    -webkit-column-gap: 30px;
+    -webkit-column-fill: auto;
+    -moz-column-count: 2;
+    -moz-column-gap: 30px;
+    -moz-column-fill: auto;
+    column-count: 2;
+    column-gap: 35px;
+    column-fill: auto;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) {
+    #columns {
+        -webkit-column-count: 1;
+        -moz-column-count: 1;
+        column-count: 1;
+    }
+}
+
+.pin {
+    display: inline-block;
+    background: #FEFEFE;
+    border: 2px solid #FAFAFA;
+    box-shadow: 0 1px 2px rgba(34, 25, 25, 0.4);
+    margin: 0 2px 45px;
+    -webkit-column-break-inside: avoid;
+    -moz-column-break-inside: avoid;
+    column-break-inside: avoid;
+    padding: 15px;
+    padding-bottom: 5px;
+    background: -webkit-linear-gradient(45deg, #FFF, #F9F9F9);
+    opacity: 1;
+    text-align: center;
+    font-size: 20px;
+    -webkit-transition: all .2s ease;
+    -moz-transition: all .2s ease;
+    -o-transition: all .2s ease;
+    transition: all .2s ease;
+}
+
+.pin img {
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 15px;
+    margin-bottom: 5px;
+}
+
+#groups_section {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    font-size: 60px;
+    font-family: 'Arvo';
+    text-align: center;
+}
+
+#groups_section h3{
+    margin-top: 100px;
+    margin-bottom: 50px;
+    font-size: 40px;
+    font-family: 'Arvo';
+    text-align: center;
+    color: #777;
+}
