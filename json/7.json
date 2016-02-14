@@ -1,0 +1,18 @@
+{
+	"success": 1,
+	"data": [{
+		"event_id": "7",
+		"event_name": "EACH ONE TEACH ONE",
+		"event_image": "img/event_images/each-one-teach-one.jpg",
+		"event_start_date": "21-Dec-2015",
+		"event_end_date": "20-Dec-2015",
+		"event_start_time": "6:00/17-Dec-2015",
+		"event_end_time": "23:00/20-Dec-2015",
+		"event_date_duration": "Feb 21",
+		"event_time_duration": "Feb 21 at 6:00 AM to 12:00 PM",
+		"event_html": "<h3>DETAILS WILL BE POSTED SOON !!!!</h3>",
+		"event_title": "EACH ONE TEACH ONE",
+		"total_kms": "Total Kms - 150 ( Approx )",
+		"event_url": "event_details.html"
+	}]
+}
