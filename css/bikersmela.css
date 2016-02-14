@@ -166,8 +166,7 @@ h5 {
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
     #event_content_container{
-        width: 90%;
-        margin-left: 0;
+        width: 100%;
     }
 }
 
@@ -481,4 +480,18 @@ ul {
     font-family: 'Arvo';
     text-align: center;
     color: #777;
+}
+
+#google_form{
+    width:100%; 
+    height : 2250px; 
+    frameborder: 0;
+    marginheight: 0;
+    marginwidth: 0;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) {
+    #google_form {
+        height : 2700px; 
+    }
 }
