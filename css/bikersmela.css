@@ -365,22 +365,22 @@ ul {
 }
 
 #columns2 {
-    -webkit-column-count: 2;
+    -webkit-column-count: 4;
     -webkit-column-gap: 30px;
     -webkit-column-fill: auto;
-    -moz-column-count: 2;
+    -moz-column-count: 4;
     -moz-column-gap: 30px;
     -moz-column-fill: auto;
-    column-count: 2;
+    column-count: 4;
     column-gap: 35px;
     column-fill: auto;
 }
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) {
     #columns2 {
-        -webkit-column-count: 1;
-        -moz-column-count: 1;
-        column-count: 1;
+        -webkit-column-count: 4;
+        -moz-column-count: 4;
+        column-count: 4;
     }
 }
 
