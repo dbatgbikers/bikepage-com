@@ -490,8 +490,17 @@ ul {
     marginwidth: 0;
 }
 
+#explara_payment{
+    width:100%; 
+    height:1100px;
+}
+
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) {
     #google_form {
         height : 2600px; 
+    }
+
+    #explara_payment{
+        height : 2200px;
     }
 }
