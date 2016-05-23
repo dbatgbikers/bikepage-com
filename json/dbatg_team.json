@@ -1,6 +1,7 @@
 {
 	"success": 1,
-	"data": [{
+	"data": [
+	{
 		"member_id" : "1",
 		"member_name" : "Pramod Chauhan (PC)",
 		"member_details": "Pramod Chauhan AKA PC is Alpha among all admin An MBA graduate born and brought in APS DAGSHAI, Solan, HP. PC is a example of patience, brotherhood, can do spirit in all scenarios. He inspires all riders of all age group for conquering toughest phases during the rides. He is always full of enthusiasm, energy and a joyful nature. Pramod owns Krazima R and KTM DUKE 390 bike.  <br/><br/> “PC is soul of DABTG, this little devil can drive any motorbike in any scenario. I have seen him many times driving bikes of other fellow riders who would have given up the ride in between due to mechanical issues came during the rides. But Pramod certainly do manage the problems and seek that rider must complete his ride and nobody left behind” - Aniken ",
@@ -11,6 +12,15 @@
 		"member_img": "../img/web_images/profile_pics/pc.jpg"
 	},{
 		"member_id" : "2",
+		"member_name" : "Hitesh Goel",
+		"member_details": "No words for MySelf :P. Meet me in person and know who i am.!",
+		"is_admin": "1",
+		"member_from": "September 2015",
+		"total_rides": "50",
+		"post" : "Admin",
+		"member_img": "../img/web_images/profile_pics/hitesh.jpg"
+	},{
+		"member_id" : "3",
 		"member_name" : "Ishu Negi",
 		"member_details": "Born and brought up in Deharadoon. Ishu is another DBATG young  memeber who takes motorbiking as passion. He use to be a reckie rider during rides when we search for camping sites at the end of the day. Ishu is one the fastest rider of DBATG.  He Own Duke 200 and Karizma R. <br/> <br/> He is the Fastest Biker in DBATG. \"CATCH ME IF YOU CAN\" -Aniken",
 		"is_admin": "1",
@@ -19,7 +29,7 @@
 		"post" : "Admin",
 		"member_img": "../img/web_images/profile_pics/ishu.jpg"
 	},{
-		"member_id" : "3",
+		"member_id" : "4",
 		"member_name" : "Aniken",
 		"member_details": "#man #machine #roadwalker <br/><br/> As the name suggests “walker on the road” on two wheels. The man behind the concept of “Bikers vs Wild” in DBATG. His thinking goes beyond everyone’s imagination. Took out the idea of camping and biking together. Always in search of new and exceptional destinations for ride. <br/><br/> His craze for bikes and its customization reaches to next level. Loves cooking and goes with the rhythm of music. <br/><br/>His belief “ Explanation is curiosity”.",
 		"is_admin": "1",
@@ -28,7 +38,7 @@
 		"post" : "Admin",
 		"member_img": "../img/web_images/profile_pics/aniken.jpg"
 	},{
-		"member_id" : "4",
+		"member_id" : "5",
 		"member_name" : "Yash Jha (Daku)",
 		"member_details": "Yash Jha AKA Daku Daddy , born and brought up in Jaipur. Yash is running his own Automobile Graphic design studio in jaipur and is one of the CRAZIEST motorbike rider of DBATG. He is one of the youngest member in admins  and take rides with great passion and enthusiasam. He owns a Ktm Duke 200.<br/><br/> Give any bike to Yash, he can ride it like a hellboy and at the end bike will be left in peices. -Aniken",
 		"is_admin": "1",
@@ -37,7 +47,7 @@
 		"post" : "Admin",
 		"member_img": "../img/web_images/profile_pics/daku.jpg"
 	},{
-		"member_id" : "5",
+		"member_id" : "6",
 		"member_name" : "Manish Rastogi",
 		"member_details": "Manish AKA Bear gryls of DBATG , is a Profession Charted Accountant , born and brought up in Delhi NCR. Manish is a very distinguish rider ,  he use to do sometimes solo rides also where he camp , cook and move to next destination. Manish is huge fan of Bear gryls and try to learn and implent his survivor techniques while rides. Sweet in nature , and support each member in group in each possible manner. He has his own collection of camp knifes. He owns Hero impulse with customise CBZ extreme Engine.",
 		"is_admin": "1",
@@ -46,7 +56,7 @@
 		"post" : "Admin",
 		"member_img": "../img/web_images/profile_pics/manish.jpg"
 	},{
-		"member_id" : "6",
+		"member_id" : "7",
 		"member_name" : "Sandeep Kumar",
 		"member_details": "Sandeep AKA sanddy  is the founder member of DBATG. Long ago in 2012 March he had laid foundation of DELHI BIKER ADVENTURE TOUR GROUP. 1st ride in same year was of Virnadavan.  Sandeep is very gentle and also passionate for the motorbiking. Sandeep never imagined that DBATG will move ahead swiftly and with a unique sense of brotherhood love between riders. No matter what 2wheel  vehichle you have , belongs to any part of earth , if you have passion for riding you can be part of Delhi biker adventure tour group.  Sandeep due to family and work responsibilties join in very few rides but as a founder member he keep the spirit up. He owns a hero CBZ extreme.",
 		"is_admin": "1",
@@ -55,22 +65,13 @@
 		"post" : "Admin",
 		"member_img": "../img/web_images/profile_pics/sandeep.jpg"
 	},{
-		"member_id" : "7",
-		"member_name" : "Vishal Diwakar",
-		"member_details": "Vishal Diwakar is one of the founder of this group.  Born in Moradabad(Uttar Pradesh), currently reside in Noida. He loves nature more than himself so obviously his passions are Photography and most important Biking.  Bike riding for him is more than the seeing of sights; it is a change that goes on, deep and permanent, in the ideas  of living. To the lover of wilderness, Biking is one of the most wonderful thing in the world. So keep riding !!!!!!",
-		"is_admin": "1",
-		"member_from": "June 2012",
-		"total_rides": "30",
-		"post" : "Admin",
-		"member_img": "../img/web_images/profile_pics/vishal.jpg"
-	},{
 		"member_id" : "8",
-		"member_name" : "Arvind Kumar",
-		"member_details": "Arvind Kumar is one of the founder of this group.  Born and brought up in Delhi. \"If the path is beautiful, Ask where it leads to.. But if destination Is Beautiful Never mind about the path.. keep walking.\"",
+		"member_name" : "Madhusudan Ghosh",
+		"member_details": "The motograper of DBATG.",
 		"is_admin": "1",
-		"member_from": "June 2012",
+		"member_from": "June 2013",
 		"total_rides": "30",
 		"post" : "Admin",
-		"member_img": "../img/web_images/profile_pics/arvind.jpg"
+		"member_img": "../img/web_images/profile_pics/madhu.jpg"
 	}]
 }
