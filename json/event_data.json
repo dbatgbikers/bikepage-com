@@ -1,9 +1,4 @@
 {
 	"success": 1,
-	"data": [{
-		"event_id": "7",
-		"event_name": "Each One Teach One",
-		"event_image": "img/event_images/each-one-teach-one.jpg",
-		"event_url": "event_details.html"
-	}]
+	"data": []
 }
