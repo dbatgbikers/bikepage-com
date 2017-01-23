@@ -61,6 +61,8 @@ p {
 
 .mt {
     padding-top: 25px;
+    font-size: 25px;
+    font-weight: 300;
 }
 
 .navbar-toggle {
@@ -257,13 +259,12 @@ p {
   width: 100%
 }
 
-#main-slider 
-.carousel-caption {
+#main-slider .carousel-caption {
   position: absolute;
   left:0;
   right:0;
   margin:0 auto;
-  padding-bottom: 360px;
+  padding-bottom: 150px;
   text-transform: none;
   text-shadow: 3px 4px 5px rgba(34, 25, 25, 0.4);
   color: white;
@@ -572,7 +573,7 @@ p {
 /* ---------------------------------------------------------------------------- */
 /* -------------------------------------Box 7---------------------------------- */
 /* ---------------------------------------------------------------------------- */
-.box-content.box-7 {padding-bottom: 50px;}
+.box-content.box-7 {padding-bottom: 20px;}
 .box-content.box-7 .box-item{margin-top: -40px;}
 .box-content.box-7 h3{margin-bottom: 15px;}
 .box-content.box-7 input {border: 1px solid #785843;border-radius: 4px;-webkit-border-radius:4px;-moz-border-radius:4px;}
