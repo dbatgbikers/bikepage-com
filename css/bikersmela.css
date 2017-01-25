@@ -16,7 +16,7 @@ body {
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
     #cover_container {
-        height: 35%;
+        height: 31%;
     }
 }
 
@@ -53,7 +53,7 @@ body {
 
 .time_icon {
     min-width: 6%;
-    margin-left: 25%;
+    margin-left: 38%;
     background: url("../img/web_images/time_icon.png") no-repeat 90% 50%;
     height: 50px;
     color: #fff;
@@ -85,7 +85,7 @@ body {
 #total_distance {
     padding-top: 50px;
     text-align: center;
-    font-size: 30px;
+    font-size: 25px;
     font-family: 'Goudy Bookletter 1911', serif, ;
     float: left;
     width: 100%;
@@ -95,16 +95,16 @@ body {
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
     .time_icon{
         min-width: 8%;
-        margin-left: 16%;
+        margin-left: 30%;
     }
     #total_distance{
-        font-size: 35px;
+        font-size: 40px;
     }
     #time_duration {
-        font-size: 21px;
+        font-size: 35px;
     }
     #date_duration {
-        font-size: 27px;
+        font-size: 44px;
     }
 }
 
@@ -149,10 +149,17 @@ h5 {
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
     h2 {
-        font-size: 38px;
+        font-size: 45px;
     }
     h3{
         font-size: 32px;
+    }
+    h4{
+        font-size: 25px;
+    }
+    .time_icon{
+        height: 100px;
+        margin-left: 26%;
     }
 }
 
